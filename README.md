@@ -1,6 +1,6 @@
 # NAS Sync Plugin
 
-이 저장소는 (https://github.com/Beomjin4/nas-sync)의 옵시디언 플러그인입니다.
+이 저장소는 (https://github.com/Beomjin4/nas-sync) 의 옵시디언 플러그인입니다.
 
 This is the Obsidian plugin for the (https://github.com/Beomjin4/nas-sync).
 
